@@ -145,4 +145,10 @@ body.escuro .menu a{
 body.escuro .menu a:hover{
 color:#6b46c1;
 }
+#dark{
+background:none;
+  cursor:pointer;
+
+
+}
 
