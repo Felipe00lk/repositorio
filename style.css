@@ -94,4 +94,11 @@ body {
   color: white;
   margin-top: 40px;
 }
+.menu a:hover{
+ color: #6b46c1;
+  transform: scale(1.1);
+  border-bottom: aquamarine solid 2px;
+
+
+}
 
