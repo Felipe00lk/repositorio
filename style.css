@@ -20,6 +20,7 @@ body {
   text-decoration: none;
   color: #333;
   font-weight: bold;
+  transition: all 0.3s ;
 }
 
 /* HERO */
@@ -98,7 +99,39 @@ body {
  color: #6b46c1;
   transform: scale(1.1);
   border-bottom: aquamarine solid 2px;
-
+}
+.logo {
+  color: #d53f8c;
+}
+.escuro  {
+  background: #222;
+  color: black;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+body.escuro .card{
+  background: #121212;
+  color: white;
+}
+body.escuro .skills{
+  background: #121212;
+  color: white;
+}
+body.escuro h2{
+  color: #6b46c1;
+  background: #121212;
+  background: none;
+}
+body.escuro .header{
+  background: #121212;
 
 }
-
+body.escuro .menu a{
+  color: white;
+}
+body.escuro .menu a:hover{
+color:#6b46c1;
+}
