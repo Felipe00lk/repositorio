@@ -135,3 +135,6 @@ body.escuro .menu a{
 body.escuro .menu a:hover{
 color:#6b46c1;
 }
+body.escuro{
+  transition:background 0.3s;
+}
