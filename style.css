@@ -104,7 +104,7 @@ body {
   color: #d53f8c;
 }
 .escuro  {
-  background: #222;
+  background-color: #222;
   color: black;
   border: none;
   border-radius: 5px;
@@ -135,5 +135,5 @@ body.escuro .menu a:hover{
 color:#6b46c1;
 }
 body.escuro{
-  transition:background ease 0.3s;
+  transition:background-color ease 0.3s;
 }
