@@ -154,7 +154,7 @@ cursor:pointer;
 }
 h2:hover{
   color: lightgreen;
-  border-bottom: solid 2px darkblue;
+  transform: scale(1.8);
 
 }
 
