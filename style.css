@@ -113,7 +113,7 @@ i {
   border-bottom: aquamarine solid 2px;
 }
 .logo {
-  color: #d53f8c;
+  color: lime;
 }
 .escuro  {
   background-color: #222;
@@ -154,9 +154,7 @@ cursor:pointer;
   -webkit-tap-highlight-color: transparent;
 }
 h2:hover{
-  color:#6b46c1 ;
-  border-bottom:2px solid red;
-  width:fit-content;
+  color:#6b46c1;
 }
 li:hover{
  color:firebrick;
