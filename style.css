@@ -152,4 +152,9 @@ cursor:pointer;
 * {
   -webkit-tap-highlight-color: transparent;
 }
+h2:hover{
+  color: lightgreen;
+  border-bottom: solid 2px darkblue;
+
+}
 
