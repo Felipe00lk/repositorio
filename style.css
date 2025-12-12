@@ -154,7 +154,8 @@ cursor:pointer;
 }
 h2:hover{
   color: skyblue;
-  transform: scale(2.8);
-
+}
+li:hover{
+ color:firebrick;
 }
 
