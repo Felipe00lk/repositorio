@@ -148,7 +148,8 @@ color:#6b46c1;
 #dark{
 border:none;
 cursor:pointer;
-
-
+}
+* {
+  -webkit-tap-highlight-color: transparent;
 }
 
