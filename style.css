@@ -155,6 +155,8 @@ cursor:pointer;
 }
 h2:hover{
   color: skyblue;
+  border-bottom:2px solid red;
+  width:fit-content;
 }
 li:hover{
  color:firebrick;
