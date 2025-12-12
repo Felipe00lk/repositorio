@@ -154,7 +154,7 @@ cursor:pointer;
   -webkit-tap-highlight-color: transparent;
 }
 h2:hover{
-  color: skyblue;
+  color:#6b46c1 ;
   border-bottom:2px solid red;
   width:fit-content;
 }
