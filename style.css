@@ -158,4 +158,8 @@ h2:hover{
 li:hover{
  color:firebrick;
 }
+.btn:hover{
+ transform:scale(1.8);
+  color:darkblue;
+}
 
